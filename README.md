@@ -5,6 +5,8 @@ output:
     latex_engine: xelatex
 ---
 
+Author Bastien Baranoff
+
 E=hv -> E=mc²
 
 Parfait. On “trouve” $m$ directement avec **$\Delta x\,\Delta p\ge \hbar/2$** + **vitesse max $c$** + **$E=\hbar\omega$** (Fourier/Parseval), sans postuler $E=mc^2$. Démo en 6 pas :
