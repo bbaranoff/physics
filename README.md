@@ -1,3 +1,10 @@
+---
+output:
+  html_document: default
+  pdf_document: 
+    latex_engine: xelatex
+---
+
 E=hv -> E=mc²
 
 Parfait. On “trouve” $m$ directement avec **$\Delta x\,\Delta p\ge \hbar/2$** + **vitesse max $c$** + **$E=\hbar\omega$** (Fourier/Parseval), sans postuler $E=mc^2$. Démo en 6 pas :
