@@ -1,12 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-Here it is — **both together**, clean and compact.
-
----
-
 ## Using only the stated hypotheses
 
 ### Assumptions
